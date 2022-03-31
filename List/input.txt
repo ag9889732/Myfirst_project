@@ -1,0 +1,23 @@
+1
+4 5 6
+4 5 6
+
+
+algorithm for time complexity analysis
+1.take input n
+2.store all input in array of n size   
+3.for each arr[] element check if other array element is 
+equal to element or not 
+4.if equal then count++
+5.push count in another array
+6.find index of max element in 2nd array
+7.element in array1 at index is your ans
+
+for(){  -------in worse case n time
+
+    for(){======in worse case n time
+    }
+}
+
+TC=n*n
+TC=O(n^2)
